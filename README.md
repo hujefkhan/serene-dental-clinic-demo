@@ -1,4 +1,4 @@
-# Serene Dental Clinic Website
+# Serene Dental Clinic Website Demo
 
 A responsive dental clinic website created using HTML, CSS, and JavaScript.
 
